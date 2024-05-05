@@ -8,3 +8,5 @@ APIs:
 - Recupera un hecho aleatorio de gatos de la primera API.
 - Recupera la primera palabra del hecho(fact).
 - Muestra una imagen de un gatos con la primera palabra.
+
+Extracto de: Midudev
